@@ -1,12 +1,8 @@
 # EspansoSnippetMaster
-Python Flask GUi for Espanso
+A minimal Espanso web-GUI
+(Python Flask GUI for Espanso)
 
-bin/env python3
-"""SnippetMaster - A minimal GUI frontend for Espanso"""
-"""
-SnippetMaster
 ───────────────────────────────
-A minimal Espanso web-GUI.
 
 Features:
 - View, Create, Edit, and Delete snippets.
@@ -27,6 +23,3 @@ Requirements:
 
 Usage:
 Run "python SnippetMaster.py" and it will open your browser automatically.
-"#!/usr/bin/env python3
-"""SnippetMaster - A minimal GUI frontend for Espanso"""
-
